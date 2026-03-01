@@ -15,6 +15,7 @@ import 'package:fitflair/Screens/screen4.dart';
 import 'package:fitflair/ui/chat.dart';
 import 'package:fitflair/ui/home.dart';
 import 'package:flutter/material.dart';
+
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
